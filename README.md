@@ -19,7 +19,9 @@ Welcome to my portfolio! This repository contains some projects that I have exec
   1. Explored variations in user activity across different days of the week and between the two cities.
   2. Identified differences in music genre preferences for Springfield and Shelbyville residents during Monday mornings and Friday evenings.
   3. Discovered distinct music preferences; pop being favored in Springfield, while Shelbyville showed a higher affinity for rap music.
+
 ### [Instacart-Analysis](https://github.com/kaizermm/Instacart-Analysis.git)
+
 * This study delves into Instacart shoppers' behaviour in 2017.
 
 * It involved data preprocessing, EDA, and information extraction through visualizations.
