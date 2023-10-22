@@ -48,7 +48,7 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 
 * Offered valuable insights to guide marketing experts in optimizing their budget allocation.
 
-### [Superstore_Return_Rate_Dashboard](https://github.com/kaizermm/Superstore_Return_Rate_Dashboard.git)
+###  [Superstore_Return_Rate_Dashboard](https://github.com/kaizermm/Superstore_Return_Rate_Dashboard.git)
 
 * Utilized Tableau for creating visualizations that showcased return rates based on month, ship mode, city, and state.
 
