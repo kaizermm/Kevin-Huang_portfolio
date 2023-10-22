@@ -1,4 +1,4 @@
-# Kevin-Huang_portfolio.github.io
+# Kevin-Huang_portfolio
 Welcome to my portfolio! This repository contains some projects that I have executed. Please feel free to look around and let me know if you have any questions!
 
 ## My Portfolio
