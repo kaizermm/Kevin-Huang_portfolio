@@ -27,6 +27,7 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 * It involved data preprocessing, EDA, and information extraction through visualizations.
 
 * The analysis identified product popularity, peak order days and times, order frequency per customer, and product reorder proportions.
+
 ### [Car-Advertisement](https://github.com/kaizermm/Car-Advertisement.git)
 * Begin by loading and reading data from both the 'vehicle_us.csv' file and the 'https://code.s3.yandex.net/datasets/vehicles_us.csv' source.
 
