@@ -3,6 +3,7 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 
 ## My Portfolio
 ### [Zuber-Rideshare-Analysis](https://github.com/kaizermm/Zuber-Rideshare-Analysis.git)
+![](https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Rideshare.jpg?raw=true)
 
 * Leveraged SQL for data extraction and harnessed Python for data visualization.
 
