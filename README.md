@@ -16,8 +16,13 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 
 * Performed hypothesis testing to determine if there is a significant difference in the average ride duration between the Loop and O'Hare International Airport on rainy Saturdays.
 
-### [Music_App_Analysis](https://github.com/kaizermm/Music_App_Analysis.git)
-* Analyzed music preferences in Springfield and Shelbyville, leveraging real Yandex.Music data to explore user behavior in these two cities.
+### Music_App_Analysis
+
+<a href="https://github.com/kaizermm/Music_App_Analysis.git">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Music%20App.jpg" width="500">
+</a>
+
+* Analyzed music preferences in Springfield and Shelbyville, leveraging real Yandex.Music data to explore user behaviour in these two cities.
 
 * Conducted data preprocessing, conducted exploratory data analysis, and uncovered valuable insights through data visualization.
 
