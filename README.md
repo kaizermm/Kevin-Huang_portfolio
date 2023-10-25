@@ -44,7 +44,7 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 
 
 <a href="https://github.com/kaizermm/Optimize_marketing_expenses_analysis.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Website.jpg" width="500">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Website.jpg?raw=true" width="500">
 </a>
 
 
