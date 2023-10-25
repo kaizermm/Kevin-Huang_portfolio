@@ -39,16 +39,6 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 
 * The analysis identified product popularity, peak order days and times, order frequency per customer, and product reorder proportions.
 
-### [Car-Advertisement](https://github.com/kaizermm/Car-Advertisement.git)
-
-* Begin by loading and reading data from both the 'vehicle_us.csv' file and the 'https://code.s3.yandex.net/datasets/vehicles_us.csv' source.
-
-* Execute essential data preprocessing steps to ensure data cleanliness and consistency.
-
-* Conduct exploratory data analysis (EDA) to uncover valuable insights into the factors influencing vehicle pricing.
-
-* Develop a web application using a tool like Render for effective data presentation and interaction.
-
 ### [Optimize_marketing_expenses_analysis](https://github.com/kaizermm/Optimize_marketing_expenses_analysis.git)
 
 * Performed data cleaning and preprocessing to prepare for exploratory data analysis.
