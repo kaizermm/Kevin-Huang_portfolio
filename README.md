@@ -24,16 +24,8 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 
 
 <a href="https://github.com/kaizermm/Music_App_Analysis.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Music%20App.jpg" width="300">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Music%20App.jpg" width="500">
 </a>
-
-
-
-
-
-
-
-
 
 
 
@@ -45,14 +37,16 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 * Investigated three key hypotheses:
   1. Explored variations in user activity across different days of the week and between the two cities.
   2. Identified differences in music genre preferences for Springfield and Shelbyville residents during Monday mornings and Friday evenings.
-  3. Discovered distinct music preferences; pop was favored in Springfield, while Shelbyville showed a higher affinity for rap music.
+  3. Discovered distinct music preferences; pop was favoured in Springfield, while Shelbyville showed a higher affinity for rap music.
 
 ### Optimize_marketing_expenses_analysis
+
 
 
 <a href="https://github.com/kaizermm/Optimize_marketing_expenses_analysis.git">
     <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Website.jpg" width="500">
 </a>
+
 
 
 * Performed data cleaning and preprocessing to prepare for exploratory data analysis.
