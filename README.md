@@ -19,9 +19,11 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 ### Music_App_Analysis
 
 
+
 <a href="https://github.com/kaizermm/Music_App_Analysis.git">
     <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Music%20App.jpg" width="500">
 </a>
+
 
 
 * Analyzed music preferences in Springfield and Shelbyville, leveraging real Yandex.Music data to explore user behaviour in these two cities.
