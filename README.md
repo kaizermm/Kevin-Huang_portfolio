@@ -33,6 +33,11 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 
 
 
+
+
+
+
+
 * Analyzed music preferences in Springfield and Shelbyville, leveraging real Yandex.Music data to explore user behaviour in these two cities.
 
 * Conducted data preprocessing, conducted exploratory data analysis, and uncovered valuable insights through data visualization.
