@@ -39,14 +39,13 @@ Welcome to my portfolio! This repository contains some projects that I have exec
   2. Identified differences in music genre preferences for Springfield and Shelbyville residents during Monday mornings and Friday evenings.
   3. Discovered distinct music preferences; pop was favoured in Springfield, while Shelbyville showed a higher affinity for rap music.
 
-### Optimize_marketing_expenses_analysis
+### Stocky E-commerce website
 
 
 
 <a href="https://github.com/kaizermm/Optimize_marketing_expenses_analysis.git">
     <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Website.jpg?raw=true" width="500">
 </a>
-
 
 
 * Performed data cleaning and preprocessing to prepare for exploratory data analysis.
