@@ -1,5 +1,8 @@
 # Kevin-Huang_portfolio
 Welcome to my portfolio! This repository contains some projects that I have executed. Please feel free to look around and let me know if you have any questions!
+## About me
+
+Passionate about the synergy between Data Analytics and Finance, I am Kevin Huang, and I've dedicated the past two years to honing my expertise in the data analytics field. My journey into data analytics stemmed from a background in chemistry, a testament to my adaptability and eagerness to explore new horizons. I initially embarked on this path by completing the Google Data Analytics certificate, which served as a strong foundation. To deepen my knowledge and skills, I sought further growth through enrollment in the TripleTen Data Analyst Program.
 
 ## My Portfolio
 ### Zuber-Rideshare-App
