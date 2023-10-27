@@ -59,7 +59,7 @@ Welcome to my portfolio! This repository contains some projects that I have exec
 ###  Superstore_Return_Rate_Dashboard
 
 <a href="https://github.com/kaizermm/Superstore-Return-Rate.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/tableau-integration-logo.png?raw=true" width="500">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/tableau-integration-logo.png?raw=true" width="300">
 </a>
 
 * Utilized Tableau for creating visualizations that showcased return rates based on month, ship mode, city, and state.
