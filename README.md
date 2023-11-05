@@ -67,6 +67,12 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 
 * Utilized Tableau for creating visualizations that showcased return rates based on month, ship mode, city, and state.
 
+### Chan-Candy-Store-Dashboard-Excel
+<a href="https://github.com/kaizermm/Chan-Candy-Store-Dashboard-Excel-.git">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Microsoft_Excel-Logo.wine.png?raw=true" width="300">
+</a>
+
+
 * Combined these visual insights into an impactful dashboard and delivered a comprehensive presentation using PowerPoint.
 
 
