@@ -66,14 +66,18 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 </a>
 
 * Utilized Tableau for creating visualizations that showcased return rates based on month, ship mode, city, and state.
-
+* Combined these visual insights into an impactful dashboard and delivered a comprehensive presentation using PowerPoint.
 ### Chan-Candy-Store-Dashboard-Excel
+
 <a href="https://github.com/kaizermm/Chan-Candy-Store-Dashboard-Excel-.git">
     <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Microsoft_Excel-Logo.wine.png?raw=true" width="300">
 </a>
 
+* Leveraged dynamic pivot tables and slicers for data analysis, following Chandoo's expert guidance. Examined seasonal trends, identifying the top-selling product.
+* Techniques: Employed statistical evaluations to extract valuable insights from sales data.
+* Results: Created a dynamic Sales Performance Dashboard, showcasing key metrics like Profit, Profit %, and Number of Sales. Identified profitable products and seasonal sales patterns.
 
-* Combined these visual insights into an impactful dashboard and delivered a comprehensive presentation using PowerPoint.
+
 
 
 
