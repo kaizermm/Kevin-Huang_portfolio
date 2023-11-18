@@ -68,7 +68,7 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 * Utilized Tableau for creating visualizations that showcased return rates based on month, ship mode, city, and state.
 * Combined these visual insights into an impactful dashboard and delivered a comprehensive presentation using PowerPoint.
 
-### Chan-Candy-Store-Dashboard-Excel
+### Chan-Candy-Store-Dashboard(Excel)
 
 <a href="https://github.com/kaizermm/Chan-Candy-Store-Dashboard-Excel-.git">
     <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Microsoft_Excel-Logo.wine.png?raw=true" width="300">
@@ -77,6 +77,17 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 * Leveraged dynamic pivot tables and slicers for data analysis, following Chandoo's expert guidance. Examined seasonal trends, identifying the top-selling product.
 * Techniques: Employed statistical evaluations to extract valuable insights from sales data.
 * Results: Created a dynamic Sales Performance Dashboard, showcasing key metrics like Profit, Profit %, and Number of Sales. Identified profitable products and seasonal sales patterns.
+
+### Candy-Store-Sales-Performance-Report(Power BI)
+
+<a href="https://github.com/kaizermm/Candy-Store-Sales-Performance-Report.git">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Power%20BI%20logo.png?raw=true" width="300">
+</a>
+
+* Develop a robust data model to facilitate data analysis and statistical evaluations, revealing insightful patterns.
+* Construct an interactive Sales Performance Dashboard that discerns trends in customer behaviour on a monthly basis.
+* Identify the top-performing salesperson, Wilone O'Kielt, showcasing exceptional sales achievements.
+* Highlight the predominant category performance for the top salesperson, emphasizing notable success in Bar sales.
 
 
 
