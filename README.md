@@ -81,7 +81,7 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 ### Candy-Store-Sales-Performance-Report(Power BI)
 
 <a href="https://github.com/kaizermm/Candy-Store-Sales-Performance-Report.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Power%20BI%20logo.png?raw=true" height="300">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Power%20BI%20logo.png?raw=true" height="200">
 </a>
 
 * Develop a robust data model to facilitate data analysis and statistical evaluations, revealing insightful patterns.
