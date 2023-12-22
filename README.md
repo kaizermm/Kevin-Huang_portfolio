@@ -78,7 +78,7 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 * Techniques: Employed statistical evaluations to extract valuable insights from sales data.
 * Results: Created a dynamic Sales Performance Dashboard, showcasing key metrics like Profit, Profit %, and Number of Sales. Identified profitable products and seasonal sales patterns.
 
-### Candy-Store-Sales-Performance-Report(Power BI)
+### Candy Store Power Bi
 
 <a href="https://github.com/kaizermm/Candy-Store-Sales-Performance-Report.git">
     <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Power%20BI%20logo.png?raw=true" height="200">
