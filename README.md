@@ -29,9 +29,12 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 
 * Perform hypothesis testing to assess and either accept or reject three hypotheses about revenue and profitability, utilizing statistical tests and confidence intervals. The three hypotheses to be tested are as follows:
     ·
+
       H1: There is a positive correlation between marketing expenditures and revenue.
 
-    · H2: Profit margins have improved over the past year due to cost optimization.
+
+      H2: Profit margins have improved over the past year due to cost optimization.
+
 
       H3: Certain product categories contribute significantly to overall profits.
   
