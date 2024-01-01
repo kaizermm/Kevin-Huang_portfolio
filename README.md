@@ -64,7 +64,7 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 ### Chan-Candy-Store-Dashboard(Excel)
 
 <a href="https://github.com/kaizermm/Chan-Candy-Store-Dashboard-Excel-.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Microsoft_Excel-Logo.wine.png?raw=true" width="300">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Microsoft_Excel-Logo.wine.png?raw=true" height="200">
 </a>
 
 * Leveraged dynamic pivot tables and slicers for data analysis, following Chandoo's expert guidance. Examined seasonal trends, identifying the top-selling product.
