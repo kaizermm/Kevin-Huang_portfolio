@@ -22,7 +22,7 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 
 
 <a href="https://github.com/kaizermm/AtliQ-Hardware-Financial-Analysis-.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Music%20App.jpg?raw=true" width="300">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Atliq.png?raw=true" width="300">
 </a>
 
 * Utilize SQL for extracting data from SQLite, conducting data preprocessing to manage missing or duplicate data, and performing data type conversion as needed.
