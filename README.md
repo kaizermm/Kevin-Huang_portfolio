@@ -42,7 +42,7 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 
 
 <a href="https://github.com/kaizermm/Optimize_marketing_expenses_analysis.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Website.jpg?raw=true" width="500">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Website.jpg?raw=true" width="300">
 </a>
 
 
