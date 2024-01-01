@@ -1,17 +1,15 @@
-# Kevin-Huang_portfolio
+# Kevin Huang Portfolio
 Welcome to my portfolio! This repository contains some projects that I have executed. Please feel free to look around and let me know if you have any questions!
 ## About me
 
 Passionate about the synergy between Data Analytics and Finance, I am Kevin Huang, and I've dedicated the past two years to honing my expertise in the data analytics field. My journey into data analytics stemmed from a background in chemistry, a testament to my adaptability and eagerness to explore new horizons. I initially embarked on this path by completing the Google Data Analytics certificate, which served as a strong foundation. To deepen my knowledge and skills, I sought further growth through enrollment in the TripleTen Data Analyst Program.
 
 ## My Portfolio
-### Zuber-Rideshare-App
-
+### Zuber-Ride-share-Analysis-with-SQL-and-Python
 
 <a href="https://github.com/kaizermm/Zuber-Rideshare-Analysis.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Rideshare.jpg?raw=true" width="500">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Rideshare.jpg?raw=true" width="300">
 </a>
-
 
 * Leveraged SQL for data extraction and harnessed Python for data visualization.
 
@@ -23,17 +21,14 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 
 
 
-
-
-
 <a href="https://github.com/kaizermm/Music_App_Analysis.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Music%20App.jpg?raw=true" width="500">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Music%20App.jpg?raw=true" width="300">
 </a>
 
 
 
 
-* Analyzed music preferences in Springfield and Shelbyville, leveraging real Yandex.Music data to explore user behaviour in these two cities.
+* Analyzed music preferences in Springfield and Shelbyville, leveraging real Yandex. Music data to explore user behaviour in these two cities.
 
 * Conducted data preprocessing, conducted exploratory data analysis, and uncovered valuable insights through data visualization.
 
@@ -65,8 +60,8 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
     <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/tableau-integration-logo.png?raw=true" width="300">
 </a>
 
-* Utilized Tableau for creating visualizations that showcased return rates based on month, ship mode, city, and state.
-* Combined these visual insights into an impactful dashboard and delivered a comprehensive presentation using PowerPoint.
+* Utilized Tableau to create visualizations showcasing return rates based on month, ship mode, city, and state.
+* Combined these visual insights into an impactful dashboard and delivered a PowerPoint presentation.
 
 ### Chan-Candy-Store-Dashboard(Excel)
 
@@ -85,7 +80,7 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 </a>
 
 * Develop a robust data model to facilitate data analysis and statistical evaluations, revealing insightful patterns.
-* Construct an interactive Sales Performance Dashboard that discerns trends in customer behaviour on a monthly basis.
+* Construct an interactive Sales Performance Dashboard that discerns trends in customer behaviour every month.
 * Identify the top-performing salesperson, Wilone O'Kielt, showcasing exceptional sales achievements.
 * Highlight the predominant category performance for the top salesperson, emphasizing notable success in Bar sales.
 
