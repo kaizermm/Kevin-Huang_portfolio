@@ -39,8 +39,6 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 
 ### Stocky E-commerce website
 
-
-
 <a href="https://github.com/kaizermm/Optimize_marketing_expenses_analysis.git">
     <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Website.jpg?raw=true" width="300">
 </a>
@@ -57,7 +55,7 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 ###  Superstore_Return_Rate_Dashboard
 
 <a href="https://github.com/kaizermm/Superstore-Return-Rate.git">
-    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/tableau-integration-logo.png?raw=true" width="300">
+    <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/tableau-integration-logo.png?raw=true" height="200">
 </a>
 
 * Utilized Tableau to create visualizations showcasing return rates based on month, ship mode, city, and state.
