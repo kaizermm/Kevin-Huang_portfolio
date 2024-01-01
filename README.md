@@ -28,7 +28,8 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 * Utilize SQL for extracting data from SQLite, conducting data preprocessing to manage missing or duplicate data, and performing data type conversion as needed.
 
 * Perform hypothesis testing to assess and either accept or reject three hypotheses about revenue and profitability, utilizing statistical tests and confidence intervals. The three hypotheses to be tested are as follows:
-    · H1: There is a positive correlation between marketing expenditures and revenue.
+    ·
+      H1: There is a positive correlation between marketing expenditures and revenue.
 
     · H2: Profit margins have improved over the past year due to cost optimization.
 
