@@ -17,25 +17,24 @@ Passionate about the synergy between Data Analytics and Finance, I am Kevin Huan
 
 * Performed hypothesis testing to determine if there is a significant difference in the average ride duration between the Loop and O'Hare International Airport on rainy Saturdays.
 
-### Music_App_Analysis
+### -AtliQ-Hardware-Financial-Analysis-
 
 
 
-<a href="https://github.com/kaizermm/Music_App_Analysis.git">
+<a href="https://github.com/kaizermm/AtliQ-Hardware-Financial-Analysis-.git">
     <img src="https://github.com/kaizermm/Kevin-Huang_portfolio/blob/main/images/Music%20App.jpg?raw=true" width="300">
 </a>
 
+* Utilize SQL for extracting data from SQLite, conducting data preprocessing to manage missing or duplicate data, and performing data type conversion as needed.
 
+* Perform hypothesis testing to assess and either accept or reject three hypotheses about revenue and profitability, utilizing statistical tests and confidence intervals. The three hypotheses to be tested are as follows:
+    · H1: There is a positive correlation between marketing expenditures and revenue.
 
+    · H2: Profit margins have improved over the past year due to cost optimization.
 
-* Analyzed music preferences in Springfield and Shelbyville, leveraging real Yandex. Music data to explore user behaviour in these two cities.
-
-* Conducted data preprocessing, conducted exploratory data analysis, and uncovered valuable insights through data visualization.
-
-* Investigated three key hypotheses:
-  1. Explored variations in user activity across different days of the week and between the two cities.
-  2. Identified differences in music genre preferences for Springfield and Shelbyville residents during Monday mornings and Friday evenings.
-  3. Discovered distinct music preferences; pop was favoured in Springfield, while Shelbyville showed a higher affinity for rap music.
+      H3: Certain product categories contribute significantly to overall profits.
+  
+* Create interactive dashboards in Tableau to illustrate trends in revenue and profit, customer segments, and insights related to product categories.
 
 ### Stocky E-commerce website
 
